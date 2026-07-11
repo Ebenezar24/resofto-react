@@ -24,7 +24,7 @@ export default function Header() {
           <a href="#resources">Resources</a>
           <a href="#about">About Us</a>
         </div>
-        <a className="nav-cta" href="#contact">Contact</a>
+        <a className="nav-cta" href="#contact">Book a Call</a>
       </nav>
     </header>
   )
