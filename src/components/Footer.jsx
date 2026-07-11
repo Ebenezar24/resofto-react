@@ -1,4 +1,4 @@
-import logo from '../assets/logo.jpeg'
+import logo from '../assets/logo-pill.png'
 
 export default function Footer() {
   return (

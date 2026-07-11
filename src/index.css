@@ -58,8 +58,8 @@ nav{
 }
 .logo{font-family:'Space Grotesk'; font-weight:700; font-size:1.15rem; letter-spacing:-0.01em; display:flex; align-items:center;}
 .logo span{color:var(--accent-teal);}
-.logo img{height:64px; width:auto; display:block;}
-.footer-logo img{height:34px; width:auto; display:block; margin-bottom:14px; filter:brightness(1.15);}
+.logo img{height:48px; width:auto; display:block;border-radius:999px;}
+.footer-logo img{height:40px; width:auto; display:block;border-radius:999px;margin-bottom:14px;}
 .contact-list{list-style:none;}
 .contact-list li{color:var(--text); font-size:0.88rem; margin-bottom:12px; opacity:0.85; line-height:1.5;}
 .contact-list li a{color:var(--text);}
